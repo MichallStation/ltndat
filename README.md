@@ -2,7 +2,7 @@
 
 ![Blue](https://raw.githubusercontent.com/ltndat/myhomepage/main/public/cardhatfillround.png)
 
-- 👋 Hi, I’m @ltndat _blue_
+- 👋 Hi, I’m Le Tran Ngoc Dat (Ltndat)
 - 🇻🇳 I'm Vietnamese
 
 ---
