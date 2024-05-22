@@ -1,10 +1,13 @@
-# Welcome
+Hi there 👋
 
-![Blue](https://raw.githubusercontent.com/ltndat/myhomepage/main/public/cardhatfillround.png)
+I am currently working as a full-stack app developer.
 
-- 👋 Hi, I’m Le Tran Ngoc Dat `ltndat`
-- 🇻🇳 I'm Vietnamese
+Here are my favorite technologies, sorted by interest:
 
----
+- **Programming Languages:** JavaScript, TypeScript, Python, Dart, Kotlin
+- **Backend Frameworks:** Express (TypeScript), Spring (Kotlin), Flask (Python)
+- **Frontend Frameworks:** React (TypeScript), Vue (TypeScript)
+- **App Frameworks:** Electron (TypeScript), Flutter (Dart)
+- **Database Engines:** MongoDB, SQLite, PostgreSQL, MySQL
 
-░░░░░░⚽░░░░░░ _blue_
+> I'm a big fan of Electron (TypeScript) and Flutter (Dart).
